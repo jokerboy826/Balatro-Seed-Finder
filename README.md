@@ -17,7 +17,7 @@ Mac > Settings > Privacy & Security > scroll down and allow application.
 ### Option 2: Command line
 1. Open Terminal/Command Prompt
 2. Navigate to this folder
-3. Run: `java -jar "Seed Finder-2.0.1.jar"`
+3. Run: `java -jar "Seed Finder.jar"`
 
 ## Installing Java (if needed)
 
