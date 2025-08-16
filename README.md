@@ -9,6 +9,8 @@ Find the perfect start to your next Balatro run!
 ## How to Run
 
 ### Option 1: Double-click Seed Finder.jar to launch
+You may need to check Privacy & Security settings to allow the application to run.
+Mac > Settings > Privacy & Security > scroll down and allow application.
 
 ### Option 2: Command line
 1. Open Terminal/Command Prompt
