@@ -66,16 +66,20 @@ Improved seed finding capabilities:
         
 2. Pack logic improved - cards cannot appear in the same pack unless it is a Mega pack.
 
-3. Fixed issues with Bootstraps not searching correctly
+3. Multi-threaded searches - search for multiple cards across different antes.
 
-4. Wee Joker appears correctly sized in UI
+4. Fixed issues with Bootstraps not searching correctly
 
-5. Search stops after 10 seeds found, saving time
+5. Wee Joker appears correctly sized in UI
 
-6. User can right click seed results to copy and paste into game
+6. Search stops after 10 seeds found, saving time
+
+7. User can right click seed results to copy and paste into game
 
 
 ### Known issues
 
 Spectral cards searches return incorrect spectral cards. This is an issue with Balatro4j.
+
+Search thread size becomes too large if too many cards are selected, or too many rare editions.
 
